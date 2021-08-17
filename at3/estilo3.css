@@ -2,7 +2,7 @@ body{
     background-color: lightblue;
     background-image: url(peq.png) ; 
     background-repeat: no-repeat;
-    background-position: right bottom;
+    background-position: right bottom 0;
     background-attachment: fixed;
 }
 
